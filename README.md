@@ -35,7 +35,7 @@ At PlantsBuy, we've streamlined the online shopping experience to make it as con
 We understand the importance of security while also ensuring a seamless user experience. That's why we've implemented an easy password setting feature that allows you to create a strong and secure password with minimal hassle.It's even easier to set your password incase of forget password.
 <img src="plantss/ss6.png">
 We take pride in providing exceptional products and services to our valued customers. Our testimonials section showcases the positive experiences and feedback shared by satisfied customers who have shopped with us.
-<img src="plantss/ss7.png">
+<img src="plantss/ss19.png">
 Each member of our team brings unique skills, expertise, and perspectives to the table, allowing us to deliver innovative solutions and personalized support to our customers. Whether it's helping you find the perfect plant for your space, answering your questions about plant care, or ensuring that your online shopping experience is smooth and enjoyable, our team is here to assist you every step of the way.
 
 
