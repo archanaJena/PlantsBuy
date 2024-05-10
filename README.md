@@ -35,6 +35,25 @@ At PlantsBuy, we've streamlined the online shopping experience to make it as con
 We understand the importance of security while also ensuring a seamless user experience. That's why we've implemented an easy password setting feature that allows you to create a strong and secure password with minimal hassle.It's even easier to set your password incase of forget password.
 <img src="plantss/ss6.png">
 We take pride in providing exceptional products and services to our valued customers. Our testimonials section showcases the positive experiences and feedback shared by satisfied customers who have shopped with us.
+<img src="plantss/ss21.png">
+<img src="plantss/ss20.png">
+At PlantsBuy, we strive to keep you informed and engaged throughout your shopping experience. Here are the different types of emails you may receive from us:
+
+### OTP Verification Email:
+Upon registering for an account or performing certain sensitive actions, such as updating your account details, you may receive an OTP (One-Time Password) verification email. This email contains a unique code that you'll need to enter to verify your identity and complete the action securely.
+
+### Welcome Email:
+When you create an account on Plantify, you'll receive a warm welcome email from us. This email serves as an introduction to our platform and provides helpful information about how to get started, browse our products, and make the most of your shopping experience.
+
+### Forgot Password Email:
+If you forget your password and request a password reset, we'll send you a forgot password email with instructions on how to reset your password securely. This email contains a link that you can use to reset your password and regain access to your account.
+
+### Password Set Email:
+After successfully setting a new password for your account, you'll receive a confirmation email from us. This email acknowledges that your password has been successfully updated and provides additional tips for keeping your account secure.
+
+### Thank You Email Upon Successful Ordering:
+After successfully placing an order on Plantify, you'll receive a thank you email from us. This email confirms that your order has been received and provides details about your order, including the items purchased, order total, and estimated delivery date. We'll also include a special note of appreciation for choosing Plantify for your botanical needs.
+
 <img src="plantss/ss19.png">
 Each member of our team brings unique skills, expertise, and perspectives to the table, allowing us to deliver innovative solutions and personalized support to our customers. Whether it's helping you find the perfect plant for your space, answering your questions about plant care, or ensuring that your online shopping experience is smooth and enjoyable, our team is here to assist you every step of the way.
 
