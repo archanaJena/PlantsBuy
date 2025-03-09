@@ -372,7 +372,7 @@ function closeCartModal() {
 }
 function buyNow() {
   setTimeout(function () {
-    window.location.href = "http://localhost:4500/billing";
+    window.location.href = "/billing";
   }, 2000);
 }
 function openModall() {
@@ -382,7 +382,7 @@ function openModall() {
 function closeplantModal() {
   var modal = document.getElementById("myModal");
   modal.style.display = "none";
-  window.location.href = "http://localhost:4500";
+  window.location.href = "/";
 }
 function addToCart(itemName, itemImage, itemPrice, itemCategory) {
   var newItem = {

@@ -102,9 +102,8 @@
           document .getElementById("checkoutForm") .addEventListener("submit",
           function (event) { event.preventDefault(); var paymentMethod =
           document.querySelector( 'input[name="payment"]:checked' ).value; if
-          (paymentMethod === "card") { window.location.href =
-          "http://localhost:4500/card"; } else if (paymentMethod === "cash") {
-          window.location.href = "http://localhost:4500/thank"; } });
+          (paymentMethod === "card") { window.location.href = "/card"; } else if
+          (paymentMethod === "cash") { window.location.href = "/thank"; } });
         </script>
 
       {{else}}
@@ -112,10 +111,9 @@
           document .getElementById("checkoutForm") .addEventListener("submit",
           function (event) { event.preventDefault(); var paymentMethod =
           document.querySelector( 'input[name="payment"]:checked' ).value; if
-          (paymentMethod === "card") { window.location.href =
-          "http://localhost:4500/registration"; } else if (paymentMethod ===
-          "cash") { window.location.href = "http://localhost:4500/registration";
-          } });
+          (paymentMethod === "card") { window.location.href = "/registration"; }
+          else if (paymentMethod === "cash") { window.location.href =
+          "/registration"; } });
         </script>
 
       {{/if}}
