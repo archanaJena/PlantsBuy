@@ -111,7 +111,7 @@ app.get("/signout", (req, res) => {
   req.session.destroy(); // Destroy the user session on logout
   res.redirect("/"); // Redirect to the login page after logout
 });
-app.post("/home", async (req, res) => {
+app.post("/", async (req, res) => {
   // verifylogin(req, res);
   try {
     const email = req.body.email;
