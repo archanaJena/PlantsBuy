@@ -1,11 +1,13 @@
 const express = require("express");
+require("dotenv").config();
 var path = require("path");
 const app = express();
 var hbs = require("hbs");
-require("./db/conn");
+const connectDB = require("./db/conn");
 var alert = require("alert");
 const bcrypt = require("bcrypt");
 const session = require("express-session");
+connectDB();
 app.use(
   session({
     name: "code",
